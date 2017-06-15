@@ -13,3 +13,11 @@ In command line/terminal:
  For example:
  
  $python first_timestamp.py "/home/jovyan/work/BergelsonLab/lena5min" "/home/jovyan/work/BergelsonLab/Bergelsonlab_lena5min"
+ 
+### Dependency:
+ 
+This script depends on pandas. To install it, you can simply enter "pip install pandas" in the command line. If you don't have pip, put the following in the command line:
+ 
+ $conda install pip
+ 
+ $pip install pandas
